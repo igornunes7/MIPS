@@ -1,1 +1,1 @@
-# MIPS
+# Alguns exercícios usando a linguagem MIPS/assembly
